@@ -1,0 +1,63 @@
+F:\c#大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe.config
+F:\c#大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe.manifest
+F:\c#大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe
+F:\c#大作业\myplayer\myplayer\bin\x86\Debug\myplayer.pdb
+F:\c#大作业\myplayer\myplayer\bin\x86\Debug\DMSkin.dll
+F:\c#大作业\myplayer\myplayer\bin\x86\Debug\Interop.APlayer3Lib.dll
+F:\c#大作业\myplayer\myplayer\bin\x86\Debug\AxInterop.APlayer3Lib.dll
+F:\c#大作业\myplayer\myplayer\bin\x86\Debug\APlayer_3.9.0.762.dll
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\Interop.APlayer3Lib.dll
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\AxInterop.APlayer3Lib.dll
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.csproj.ResolveComReference.cache
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\DirectUI.DirectUIBase.resources
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\DMPlay.DMControl.resources
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.PlayerForm.resources
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.Properties.Resources.resources
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.SettingForm.resources
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.AuthorForm.resources
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.csproj.GenerateResource.Cache
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.exe.manifest
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.exe
+F:\c#大作业\myplayer\myplayer\obj\x86\Debug\myplayer.pdb
+F:\windows 大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe.config
+F:\windows 大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe.manifest
+F:\windows 大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe
+F:\windows 大作业\myplayer\myplayer\bin\x86\Debug\myplayer.pdb
+F:\windows 大作业\myplayer\myplayer\bin\x86\Debug\DMSkin.dll
+F:\windows 大作业\myplayer\myplayer\bin\x86\Debug\Interop.APlayer3Lib.dll
+F:\windows 大作业\myplayer\myplayer\bin\x86\Debug\AxInterop.APlayer3Lib.dll
+F:\windows 大作业\myplayer\myplayer\bin\x86\Debug\APlayer_3.9.0.762.dll
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\Interop.APlayer3Lib.dll
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\AxInterop.APlayer3Lib.dll
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.csproj.ResolveComReference.cache
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\DirectUI.DirectUIBase.resources
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\DMPlay.DMControl.resources
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.PlayerForm.resources
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.Properties.Resources.resources
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.SettingForm.resources
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.AuthorForm.resources
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.csproj.GenerateResource.Cache
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.exe.manifest
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.exe
+F:\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.pdb
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe.config
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\Interop.APlayer3Lib.dll
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\AxInterop.APlayer3Lib.dll
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.csproj.ResolveComReference.cache
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.exe
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.pdb
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe.manifest
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\bin\x86\Debug\myplayer.exe
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\bin\x86\Debug\myplayer.pdb
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\bin\x86\Debug\DMSkin.dll
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\bin\x86\Debug\Interop.APlayer3Lib.dll
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\bin\x86\Debug\AxInterop.APlayer3Lib.dll
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\bin\x86\Debug\APlayer_3.9.0.762.dll
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\DirectUI.DirectUIBase.resources
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\DMPlay.DMControl.resources
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.PlayerForm.resources
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.Properties.Resources.resources
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.SettingForm.resources
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.AuthorForm.resources
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.csproj.GenerateResource.Cache
+C:\Users\GUOFENG\Desktop\windows 大作业\myplayer\myplayer\obj\x86\Debug\myplayer.exe.manifest
